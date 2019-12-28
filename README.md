@@ -4,6 +4,7 @@ Here is the coding I did on E-commercer data a task from google code in.
 # Required
 - R
 - R studio
+- dplyr
 
 # Code description
 ```
@@ -66,8 +67,8 @@ mean_visite-median_visite
 #[1] 0.7715003
 ```
 
-# Authors
-- Nikhil
-
 # Screen cast
 ![](http://g.recordit.co/ZDI8e3jTCe.gif)
+
+# Authors
+- Nikhil
